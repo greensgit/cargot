@@ -66,4 +66,8 @@ private void addingQuanity() {
 	System.out.println("This is vasuhi - working on changing quanity logic");
 }
 
+private void changingColor() {
+System.out.println("This is sujeesh - working on changing colors");
+}
+
 }
